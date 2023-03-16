@@ -3,4 +3,4 @@ aquí estarán los link de las practicas de flutterflow
 
 #Actividad 2 Drawer en flutterFlow
 
-https://app.flutterflow.io/project/drawe2-oozuhc?tab=widgetTree&page=HomePage
+https://app.flutterflow.io/share/drawe2-oozuhc
